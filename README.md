@@ -46,8 +46,8 @@ There, you find [x] settings:
 If you want to learn more about using [plugin type] plugins in Moodle, please see https://docs.moodle.org/en/[plugintype].
 
 
-How this plugin works / Pitfalls
---------------------------------
+How this plugin works [ / Pitfalls]
+-----------------------------------
 
 [How it works]
 
@@ -86,7 +86,7 @@ Feature proposals
 Due to limited resources, the functionality of this plugin is primarily implemented for our own local needs and published as-is to the community. We are aware that members of the community will have other needs and would love to see them solved by this plugin.
 
 Please issue feature proposals on Github:
-https://github.com/moodleuulm/moodle-[component_pluginname]
+https://github.com/moodleuulm/moodle-[component_pluginname]/issues
 
 Please create pull requests on Github:
 https://github.com/moodleuulm/moodle-[component_pluginname]/pulls
@@ -122,8 +122,7 @@ If you want to use this plugin with a RTL language and it doesn't work as-is, yo
 PHP7 Support
 ------------
 
-Moodle core recommends PHP7 and we are developing and testing it for PHP7 only.
-If you are still running this plugin on PHP5, please think about upgrading to PHP7.
+Since Moodle 3.4 core, PHP7 is mandatory. We are developing and testing this plugin for PHP7 only.
 
 
 Copyright
