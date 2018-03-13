@@ -34,9 +34,9 @@ After installing the plugin, it is ready to use without the need for any configu
 
 ==OR==
 
-After installing the theme, it does not do anything to Moodle yet.
+After installing the plugin, it does not do anything to Moodle yet.
 
-To configure the theme and its behaviour, please visit:
+To configure the plugin and its behaviour, please visit:
 Site administration -> [path to the plugin settings]
 
 There, you find [x] settings:
