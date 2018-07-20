@@ -1,7 +1,7 @@
 moodle-[component_pluginname]
 ===================================
 
-[![Build Status](https://travis-ci.org/moodleuulm/moodle-[component_pluginname].svg?branch=master)](https://travis-ci.org/moodleuulm/moodle-[component_pluginname])
+[![Build Status](https://travis-ci.com/moodleuulm/moodle-[component_pluginname].svg?branch=master)](https://travis-ci.com/moodleuulm/moodle-[component_pluginname])
 
 [A short description of the plugin]
 
