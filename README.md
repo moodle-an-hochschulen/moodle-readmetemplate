@@ -129,6 +129,5 @@ Copyright
 ---------
 
 Ulm University
-kiz - Media Department
-Team Web & Teaching Support
+Communication and Information Centre (kiz)
 [Developer full name]
