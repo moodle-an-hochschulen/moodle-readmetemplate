@@ -1,7 +1,7 @@
 moodle-[component_pluginname]
 ===================================
 
-[![Build Status](https://travis-ci.com/moodleuulm/moodle-[component_pluginname].svg?branch=master)](https://travis-ci.com/moodleuulm/moodle-[component_pluginname])
+[![Moodle Plugin CI](https://github.com/moodleuulm/moodle-[component_pluginname]/workflows/Moodle%20Plugin%20CI/badge.svg?branch=master)](https://github.com/moodleuulm/moodle-[component_pluginname]/actions?query=workflow%3A%22Moodle+Plugin+CI%22+branch%3Amaster)
 
 [A short description of the plugin]
 
