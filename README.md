@@ -1,5 +1,5 @@
 moodle-[component_pluginname]
-===================================
+=============================
 
 [![Moodle Plugin CI](https://github.com/moodleuulm/moodle-[component_pluginname]/workflows/Moodle%20Plugin%20CI/badge.svg?branch=master)](https://github.com/moodleuulm/moodle-[component_pluginname]/actions?query=workflow%3A%22Moodle+Plugin+CI%22+branch%3Amaster)
 
@@ -127,9 +127,17 @@ PHP7 Support
 Since Moodle 3.4 core, PHP7 is mandatory. We are developing and testing this plugin for PHP7 only.
 
 
+Maintainers
+-----------
+
+Ulm University\
+Communication and Information Centre (kiz)\
+[Developer full name]
+
+
 Copyright
 ---------
 
-Ulm University
-Communication and Information Centre (kiz)
+Ulm University\
+Communication and Information Centre (kiz)\
 [Developer full name]
