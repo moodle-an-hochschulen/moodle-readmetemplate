@@ -58,12 +58,22 @@ Theme support
 This plugin is developed and tested on Moodle Core's Boost theme.
 It should also work with Boost child themes, including Moodle Core's Classic theme. However, we can't support any other theme than Boost.
 
+==OR==
+
+This plugin acts behind the scenes, therefore it should work with all Moodle themes.
+This plugin is developed and tested on Moodle Core's Boost theme.
+It should also work with Boost child themes, including Moodle Core's Classic theme. However, we can't support any other theme than Boost.
+
 
 Plugin repositories
 -------------------
 
 This plugin is published and regularly updated in the Moodle plugins repository:
 http://moodle.org/plugins/view/[component_pluginname]
+
+==OR==
+
+This plugin is not published in the Moodle plugins repository.
 
 The latest development version can be found on Github:
 https://github.com/moodleuulm/moodle-[component_pluginname]
@@ -113,6 +123,11 @@ This Moodle plugin is shipped with an english language pack only. All translatio
 
 As the plugin creator, we manage the translation into german for our own local needs on AMOS. Please contribute your translation into all other languages in AMOS where they will be reviewed by the official language pack maintainers for Moodle.
 
+==OR==
+
+This plugin does not contain any strings which are visible to a Moodle student / teacher and it can't be translated on AMOS as it is not published in the Moodle plugins repository. In our point of view, translating this plugin is not necessary.
+
+
 
 Right-to-left support
 ---------------------
@@ -121,23 +136,17 @@ This plugin has not been tested with Moodle's support for right-to-left (RTL) la
 If you want to use this plugin with a RTL language and it doesn't work as-is, you are free to send us a pull request on Github with modifications.
 
 
-PHP7 Support
-------------
-
-Since Moodle 3.4 core, PHP7 is mandatory. We are developing and testing this plugin for PHP7 only.
-
-
 Maintainers
 -----------
 
-Ulm University\
-Communication and Information Centre (kiz)\
-[Developer full name]
+The plugin is maintained by\
+Moodle an Hochschulen e.V.
 
 
 Copyright
 ---------
 
-Ulm University\
-Communication and Information Centre (kiz)\
-[Developer full name]
+The copyright of this plugin is held by\
+Moodle an Hochschulen e.V.
+
+Individual copyrights of individual developers are tracked in PHPDoc comments and Git commits.
