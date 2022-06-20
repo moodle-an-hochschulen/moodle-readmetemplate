@@ -128,7 +128,6 @@ As the plugin creator, we manage the translation into german for our own local n
 This plugin does not contain any strings which are visible to a Moodle student / teacher and it can't be translated on AMOS as it is not published in the Moodle plugins repository. In our point of view, translating this plugin is not necessary.
 
 
-
 Right-to-left support
 ---------------------
 
