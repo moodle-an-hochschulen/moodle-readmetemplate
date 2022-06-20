@@ -1,7 +1,7 @@
 moodle-[component_pluginname]
 =============================
 
-[![Moodle Plugin CI](https://github.com/moodleuulm/moodle-[component_pluginname]/workflows/Moodle%20Plugin%20CI/badge.svg?branch=master)](https://github.com/moodleuulm/moodle-[component_pluginname]/actions?query=workflow%3A%22Moodle+Plugin+CI%22+branch%3Amaster)
+[![Moodle Plugin CI](https://github.com/moodle-an-hochschulen/moodle-[component_pluginname]/workflows/Moodle%20Plugin%20CI/badge.svg?branch=master)](https://github.com/moodle-an-hochschulen/moodle-[component_pluginname]/actions?query=workflow%3A%22Moodle+Plugin+CI%22+branch%3Amaster)
 
 [A short description of the plugin]
 
@@ -76,7 +76,7 @@ http://moodle.org/plugins/view/[component_pluginname]
 This plugin is not published in the Moodle plugins repository.
 
 The latest development version can be found on Github:
-https://github.com/moodleuulm/moodle-[component_pluginname]
+https://github.com/moodle-an-hochschulen/moodle-[component_pluginname]
 
 
 Bug and problem reports / Support requests
@@ -85,7 +85,7 @@ Bug and problem reports / Support requests
 This plugin is carefully developed and thoroughly tested, but bugs and problems can always appear.
 
 Please report bugs and problems on Github:
-https://github.com/moodleuulm/moodle-[component_pluginname]/issues
+https://github.com/moodle-an-hochschulen/moodle-[component_pluginname]/issues
 
 We will do our best to solve your problems, but please note that due to limited resources we can't always provide per-case support.
 
@@ -96,10 +96,10 @@ Feature proposals
 Due to limited resources, the functionality of this plugin is primarily implemented for our own local needs and published as-is to the community. We are aware that members of the community will have other needs and would love to see them solved by this plugin.
 
 Please issue feature proposals on Github:
-https://github.com/moodleuulm/moodle-[component_pluginname]/issues
+https://github.com/moodle-an-hochschulen/moodle-[component_pluginname]/issues
 
 Please create pull requests on Github:
-https://github.com/moodleuulm/moodle-[component_pluginname]/pulls
+https://github.com/moodle-an-hochschulen/moodle-[component_pluginname]/pulls
 
 We are always interested to read about your feature proposals or even get a pull request from you, but please accept that we can handle your issues only as feature _proposals_ and not as feature _requests_.
 
