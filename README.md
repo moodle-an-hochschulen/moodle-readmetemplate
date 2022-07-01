@@ -46,6 +46,20 @@ There, you find [x] settings:
 If you want to learn more about using [plugin type] plugins in Moodle, please see https://docs.moodle.org/en/[plugintype].
 
 
+Capabilities
+------------
+
+This plugin also introduces these additional capabilities:
+
+### [component]/[pluginname]::[capability]
+
+[Short description of the capability and its default assignation]
+
+==OR==
+
+This plugin does not add any additional capabilities.
+
+
 How this plugin works [ / Pitfalls]
 -----------------------------------
 
