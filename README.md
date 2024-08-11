@@ -60,6 +60,23 @@ This plugin also introduces these additional capabilities:
 This plugin does not add any additional capabilities.
 
 
+Scheduled Tasks
+---------------
+
+This plugin also introduces these additional scheduled tasks:
+
+### \theme_boost_union\task\purge_cache
+### \[pluginname]\task\[taskname]
+
+[Short description of the scheduled task]\
+By default, the task is disabled.
+
+==OR==
+
+[Short description of the scheduled task]\
+By default, the task is enabled and runs [the standard schedule].
+
+
 How this plugin works [ / Pitfalls]
 -----------------------------------
 
