@@ -65,7 +65,6 @@ Scheduled Tasks
 
 This plugin also introduces these additional scheduled tasks:
 
-### \theme_boost_union\task\purge_cache
 ### \[pluginname]\task\[taskname]
 
 [Short description of the scheduled task]\
