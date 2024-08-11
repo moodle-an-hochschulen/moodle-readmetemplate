@@ -72,8 +72,16 @@ By default, the task is disabled.
 
 ==OR==
 
+This plugin also introduces these additional scheduled tasks:
+
+### \[pluginname]\task\[taskname]
+
 [Short description of the scheduled task]\
 By default, the task is enabled and runs [the standard schedule].
+
+==OR==
+
+This plugin does not add any additional scheduled tasks.
 
 
 How this plugin works [ / Pitfalls]
