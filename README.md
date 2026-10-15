@@ -15,7 +15,7 @@ This plugin requires Moodle [Version]+
 
 Additionally, this plugin requires these other third party plugins:
 
-* The Moodle plugin [component_pluginname] which is published on https://github.com/[organisation]/moodle-[component_pluginname] / https://moodle.org/plugins/[component_pluginname].
+* The Moodle plugin [component_pluginname] which is published on https://github.com/[organisation]/moodle-[component_pluginname] / https://marketplace.moodle.org/plugins/[component_pluginname].
 
 ==END OPTIONAL==
 
@@ -234,7 +234,7 @@ Plugin repositories
 -------------------
 
 This plugin is published and regularly updated in the Moodle plugins repository:
-http://moodle.org/plugins/view/[component_pluginname]
+https://marketplace.moodle.org/plugins/[component_pluginname]
 
 ==OR==
 
@@ -249,11 +249,11 @@ https://github.com/moodle-an-hochschulen/moodle-[component_pluginname]
 Companion plugins
 -----------------
 
-If you [describe the scenario / need], you might want to have a look at our plugin [component_pluginname] as a companion plugin which [describe what the companion plugin does]. [component_pluginname] is published on https://moodle.org/plugins/[component_pluginname] and on https://github.com/moodle-an-hochschulen/moodle-[component_pluginname].
+If you [describe the scenario / need], you might want to have a look at our plugin [component_pluginname] as a companion plugin which [describe what the companion plugin does]. [component_pluginname] is published on https://marketplace.moodle.org/plugins/[component_pluginname] and on https://github.com/moodle-an-hochschulen/moodle-[component_pluginname].
 
 ==OR==
 
-If you [describe the scenario / need], you might want to have a look at [component_pluginname] as a companion plugin which [describe what the companion plugin does]. [component_pluginname] is maintained by [maintainer] and published on https://moodle.org/plugins/[component_pluginname]. The development of this plugin and [component_pluginname] is not related or synchronized in any way, we just want to recommend it as a solution approach.
+If you [describe the scenario / need], you might want to have a look at [component_pluginname] as a companion plugin which [describe what the companion plugin does]. [component_pluginname] is maintained by [maintainer] and published on https://marketplace.moodle.org/plugins/[component_pluginname]. The development of this plugin and [component_pluginname] is not related or synchronized in any way, we just want to recommend it as a solution approach.
 
 ==END OPTIONAL==
 
